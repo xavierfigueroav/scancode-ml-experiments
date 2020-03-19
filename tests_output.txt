@@ -1,0 +1,1572 @@
+==================================== test session starts ====================================
+platform linux -- Python 3.6.9, pytest-4.6.3, py-1.8.0, pluggy-0.12.0
+rootdir: /home/xavierfigueroav/Documents/scancode-toolkit, inifile: setup.cfg
+plugins: cov-2.7.1, forked-1.0.2, rerunfailures-7.0, xdist-1.29.0
+gw0 [2277] / gw1 [2277] / gw2 [2277] / gw3 [2277] / gw4 [2277] / gw5 [2277] / gw6 [2277] / gwgw0 [2277] / gw1 [2277] / gw2 [2277] / gw3 [2277] / gw4 [2277] / gw5 [2277] / gw6 [2277] / gw7 [2277]
+...................................................................................... [  3%]
+.....s....s.........................................................s......x.......... [  7%]
+..................................x....................s............................. [ 11%]
+.......................s.........................s......x.ss......................... [ 14%]
+s...............................................................s........s.....s..... [ 18%]
+..............X.........................................x..........x................. [ 22%]
+...........................s...............................x.............sssssss.ssss [ 26%]
+ssssss...s.ss...s.sssss.s.s..........s............................................... [ 29%]
+..............................................................s.ss.ss..s.s.s.s.ssssss [ 33%]
+.sss................................................................................. [ 37%]
+............................................x........................................ [ 41%]
+..................................................................................... [ 44%]
+.........................................................s.x............xx........... [ 48%]
+..................................................................................... [ 52%]
+..................................................................................... [ 56%]
+...................................................x........x.x...................... [ 59%]
+.................................................................................xxxx [ 63%]
+xx................................................................................... [ 67%]
+....X................................X............................................... [ 71%]
+...X................................................................................. [ 74%]
+................................s.................................................... [ 78%]
+..................................................................................... [ 82%]
+..........................s.......................................................... [ 85%]
+............................................x........................................ [ 89%]
+..................................................................................... [ 93%]
+..................................................................................... [ 97%]
+.................................................................                     [100%]
+===================================== warnings summary ======================================
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+lib/python3.6/site-packages/Crypto/Util/number.py:216
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/Crypto/Util/number.py:216: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+lib/python3.6/site-packages/Crypto/Util/number.py:338
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/Crypto/Util/number.py:338: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/click/core.py:1259
+lib/python3.6/site-packages/click/core.py:1259
+lib/python3.6/site-packages/click/core.py:1259
+lib/python3.6/site-packages/click/core.py:1259
+lib/python3.6/site-packages/click/core.py:1259
+lib/python3.6/site-packages/click/core.py:1259
+lib/python3.6/site-packages/click/core.py:1259
+lib/python3.6/site-packages/click/core.py:1259
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/click/core.py:1259: DeprecationWarning: invalid escape sequence \s
+    """
+
+lib/python3.6/site-packages/click/_compat.py:14
+lib/python3.6/site-packages/click/_compat.py:14
+lib/python3.6/site-packages/click/_compat.py:14
+lib/python3.6/site-packages/click/_compat.py:14
+lib/python3.6/site-packages/click/_compat.py:14
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/click/_compat.py:14: DeprecationWarning: invalid escape sequence \[
+    _ansi_re = re.compile('\033\[((?:\d|;)*)([a-zA-Z])')
+
+lib/python3.6/site-packages/click/decorators.py:111
+lib/python3.6/site-packages/click/decorators.py:111
+lib/python3.6/site-packages/click/decorators.py:111
+lib/python3.6/site-packages/click/decorators.py:111
+lib/python3.6/site-packages/click/decorators.py:111
+lib/python3.6/site-packages/click/decorators.py:111
+lib/python3.6/site-packages/click/decorators.py:111
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/click/decorators.py:111: DeprecationWarning: invalid escape sequence \s
+    """
+
+lib/python3.6/site-packages/patch.py:340
+lib/python3.6/site-packages/patch.py:340
+lib/python3.6/site-packages/patch.py:340
+lib/python3.6/site-packages/patch.py:340
+lib/python3.6/site-packages/patch.py:340
+lib/python3.6/site-packages/patch.py:340
+lib/python3.6/site-packages/patch.py:340
+lib/python3.6/site-packages/patch.py:340
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/patch.py:340: DeprecationWarning: invalid escape sequence \d
+    re_hunk_start = re.compile(b"^@@ -(\d+)(,(\d+))? \+(\d+)(,(\d+))? @@")
+
+lib/python3.6/site-packages/patch.py:519
+lib/python3.6/site-packages/patch.py:519
+lib/python3.6/site-packages/patch.py:519
+lib/python3.6/site-packages/patch.py:519
+lib/python3.6/site-packages/patch.py:519
+lib/python3.6/site-packages/patch.py:519
+lib/python3.6/site-packages/patch.py:519
+lib/python3.6/site-packages/patch.py:519
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/patch.py:519: DeprecationWarning: invalid escape sequence \+
+    re_filename = b"^\+\+\+ ([^\t]+)"
+
+lib/python3.6/site-packages/patch.py:545
+lib/python3.6/site-packages/patch.py:545
+lib/python3.6/site-packages/patch.py:545
+lib/python3.6/site-packages/patch.py:545
+lib/python3.6/site-packages/patch.py:545
+lib/python3.6/site-packages/patch.py:545
+lib/python3.6/site-packages/patch.py:545
+lib/python3.6/site-packages/patch.py:545
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/patch.py:545: DeprecationWarning: invalid escape sequence \d
+    match = re.match(b"^@@ -(\d+)(,(\d+))? \+(\d+)(,(\d+))? @@(.*)", line)
+
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+lib/python3.6/site-packages/pygments/lexers/ruby.py:406
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/ruby.py:406: DeprecationWarning: invalid escape sequence \(
+    _prompt_re = re.compile('irb\([a-zA-Z_]\w*\):\d{3}:\d+[>*"\'] '
+
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+lib/python3.6/site-packages/pygments/lexers/ruby.py:407
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/ruby.py:407: DeprecationWarning: invalid escape sequence \?
+    '|>> |\?> ')
+
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+lib/python3.6/site-packages/pygments/lexers/ruby.py:501
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/ruby.py:501: DeprecationWarning: invalid escape sequence \w
+    ('[A-Z]\w*', Name.Constant),
+
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+lib/python3.6/site-packages/pygments/lexers/ruby.py:502
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/ruby.py:502: DeprecationWarning: invalid escape sequence \w
+    ('@[a-zA-Z_]\w*', Name.Variable.Instance),
+
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+lib/python3.6/site-packages/pygments/lexers/ruby.py:503
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/ruby.py:503: DeprecationWarning: invalid escape sequence \w
+    ('@@[a-zA-Z_]\w*', Name.Variable.Class),
+
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+lib/python3.6/site-packages/pygments/lexers/ruby.py:505
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/ruby.py:505: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name),
+
+lib/python3.6/site-packages/toml/decoder.py:47
+lib/python3.6/site-packages/toml/decoder.py:47
+lib/python3.6/site-packages/toml/decoder.py:47
+lib/python3.6/site-packages/toml/decoder.py:47
+lib/python3.6/site-packages/toml/decoder.py:47
+lib/python3.6/site-packages/toml/decoder.py:47
+lib/python3.6/site-packages/toml/decoder.py:47
+lib/python3.6/site-packages/toml/decoder.py:47
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/toml/decoder.py:47: DeprecationWarning: invalid escape sequence \.
+    TIME_RE = re.compile("([0-9]{2}):([0-9]{2}):([0-9]{2})(\.([0-9]{3,6}))?")
+
+lib/python3.6/site-packages/dparse/regex.py:10
+lib/python3.6/site-packages/dparse/regex.py:10
+lib/python3.6/site-packages/dparse/regex.py:10
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:10: DeprecationWarning: invalid escape sequence \S
+    "(?:\S+(?::\S*)?@)?"
+
+lib/python3.6/site-packages/dparse/regex.py:14
+lib/python3.6/site-packages/dparse/regex.py:14
+lib/python3.6/site-packages/dparse/regex.py:14
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:14: DeprecationWarning: invalid escape sequence \.
+    "(?!(?:10|127)(?:\.\d{1,3}){3})"
+
+lib/python3.6/site-packages/dparse/regex.py:15
+lib/python3.6/site-packages/dparse/regex.py:15
+lib/python3.6/site-packages/dparse/regex.py:15
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:15: DeprecationWarning: invalid escape sequence \.
+    "(?!(?:169\.254|192\.168)(?:\.\d{1,3}){2})"
+
+lib/python3.6/site-packages/dparse/regex.py:16
+lib/python3.6/site-packages/dparse/regex.py:16
+lib/python3.6/site-packages/dparse/regex.py:16
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:16: DeprecationWarning: invalid escape sequence \.
+    "(?!172\.(?:1[6-9]|2\d|3[0-1])(?:\.\d{1,3}){2})"
+
+lib/python3.6/site-packages/dparse/regex.py:22
+lib/python3.6/site-packages/dparse/regex.py:22
+lib/python3.6/site-packages/dparse/regex.py:22
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:22: DeprecationWarning: invalid escape sequence \d
+    "(?:[1-9]\d?|1\d\d|2[01]\d|22[0-3])"
+
+lib/python3.6/site-packages/dparse/regex.py:23
+lib/python3.6/site-packages/dparse/regex.py:23
+lib/python3.6/site-packages/dparse/regex.py:23
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:23: DeprecationWarning: invalid escape sequence \.
+    "(?:\.(?:1?\d{1,2}|2[0-4]\d|25[0-5])){2}"
+
+lib/python3.6/site-packages/dparse/regex.py:24
+lib/python3.6/site-packages/dparse/regex.py:24
+lib/python3.6/site-packages/dparse/regex.py:24
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:24: DeprecationWarning: invalid escape sequence \.
+    "(?:\.(?:[1-9]\d?|1\d\d|2[0-4]\d|25[0-4]))"
+
+lib/python3.6/site-packages/dparse/regex.py:29
+lib/python3.6/site-packages/dparse/regex.py:29
+lib/python3.6/site-packages/dparse/regex.py:29
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:29: DeprecationWarning: invalid escape sequence \.
+    "(?:\.(?:[a-z\u00a1-\uffff0-9]-?)*[a-z\u00a1-\uffff0-9]+)*"
+
+lib/python3.6/site-packages/dparse/regex.py:31
+lib/python3.6/site-packages/dparse/regex.py:31
+lib/python3.6/site-packages/dparse/regex.py:31
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:31: DeprecationWarning: invalid escape sequence \.
+    "(?:\.(?:[a-z\u00a1-\uffff]{2,}))"
+
+lib/python3.6/site-packages/dparse/regex.py:34
+lib/python3.6/site-packages/dparse/regex.py:34
+lib/python3.6/site-packages/dparse/regex.py:34
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:34: DeprecationWarning: invalid escape sequence \d
+    "(?::\d{2,5})?"
+
+lib/python3.6/site-packages/dparse/regex.py:36
+lib/python3.6/site-packages/dparse/regex.py:36
+lib/python3.6/site-packages/dparse/regex.py:36
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/dparse/regex.py:36: DeprecationWarning: invalid escape sequence \S
+    "(?:/\S*)?",
+
+lib/python3.6/site-packages/nltk/decorators.py:59
+lib/python3.6/site-packages/nltk/decorators.py:59
+lib/python3.6/site-packages/nltk/decorators.py:59
+lib/python3.6/site-packages/nltk/decorators.py:59
+lib/python3.6/site-packages/nltk/decorators.py:59
+lib/python3.6/site-packages/nltk/decorators.py:59
+lib/python3.6/site-packages/nltk/decorators.py:59
+lib/python3.6/site-packages/nltk/decorators.py:59
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/decorators.py:59: DeprecationWarning: inspect.getargspec() is deprecated since Python 3.0, use inspect.signature() or inspect.getfullargspec()
+    regargs, varargs, varkwargs, defaults = inspect.getargspec(func)
+
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+lib/python3.6/site-packages/nltk/featstruct.py:1204
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/featstruct.py:1204: DeprecationWarning: invalid escape sequence \d
+    name, n = re.sub('\d+$', '', var.name), 2
+
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+lib/python3.6/site-packages/nltk/featstruct.py:1879
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/featstruct.py:1879: DeprecationWarning: invalid escape sequence \d
+    RANGE_RE = re.compile('(-?\d+):(-?\d+)')
+
+lib/python3.6/site-packages/nltk/sem/relextract.py:110
+lib/python3.6/site-packages/nltk/sem/relextract.py:110
+lib/python3.6/site-packages/nltk/sem/relextract.py:110
+lib/python3.6/site-packages/nltk/sem/relextract.py:110
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/sem/relextract.py:110: DeprecationWarning: invalid escape sequence \w
+    ENT = re.compile("&(\w+?);")
+
+lib/python3.6/site-packages/nltk/sem/relextract.py:355
+lib/python3.6/site-packages/nltk/sem/relextract.py:355
+lib/python3.6/site-packages/nltk/sem/relextract.py:355
+lib/python3.6/site-packages/nltk/sem/relextract.py:355
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/sem/relextract.py:355: DeprecationWarning: invalid escape sequence \s
+    """
+
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+lib/python3.6/site-packages/nltk/sem/boxer.py:636
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/sem/boxer.py:636: DeprecationWarning: invalid escape sequence \d
+    assert re.match('^[exps]\d+$', var), var
+
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+lib/python3.6/site-packages/nltk/sem/drt.py:614
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/sem/drt.py:614: DeprecationWarning: invalid escape sequence \ 
+    [' \  ' + blank      + line for line in term_lines[1:2]] +
+
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+lib/python3.6/site-packages/nltk/sem/drt.py:615
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/sem/drt.py:615: DeprecationWarning: invalid escape sequence \ 
+    [' /\ ' + var_string + line for line in term_lines[2:3]] +
+
+lib/python3.6/site-packages/nltk/grammar.py:1121
+lib/python3.6/site-packages/nltk/grammar.py:1121
+lib/python3.6/site-packages/nltk/grammar.py:1121
+lib/python3.6/site-packages/nltk/grammar.py:1121
+lib/python3.6/site-packages/nltk/grammar.py:1121
+lib/python3.6/site-packages/nltk/grammar.py:1121
+lib/python3.6/site-packages/nltk/grammar.py:1121
+lib/python3.6/site-packages/nltk/grammar.py:1121
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/grammar.py:1121: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/grammar.py:1281
+lib/python3.6/site-packages/nltk/grammar.py:1281
+lib/python3.6/site-packages/nltk/grammar.py:1281
+lib/python3.6/site-packages/nltk/grammar.py:1281
+lib/python3.6/site-packages/nltk/grammar.py:1281
+lib/python3.6/site-packages/nltk/grammar.py:1281
+lib/python3.6/site-packages/nltk/grammar.py:1281
+lib/python3.6/site-packages/nltk/grammar.py:1281
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/grammar.py:1281: DeprecationWarning: invalid escape sequence \w
+    _STANDARD_NONTERM_RE = re.compile('( [\w/][\w/^<>-]* ) \s*', re.VERBOSE)
+
+lib/python3.6/site-packages/nltk/tree.py:95
+lib/python3.6/site-packages/nltk/tree.py:95
+lib/python3.6/site-packages/nltk/tree.py:95
+lib/python3.6/site-packages/nltk/tree.py:95
+lib/python3.6/site-packages/nltk/tree.py:95
+lib/python3.6/site-packages/nltk/tree.py:95
+lib/python3.6/site-packages/nltk/tree.py:95
+lib/python3.6/site-packages/nltk/tree.py:95
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tree.py:95: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/nltk/tree.py:596
+lib/python3.6/site-packages/nltk/tree.py:596
+lib/python3.6/site-packages/nltk/tree.py:596
+lib/python3.6/site-packages/nltk/tree.py:596
+lib/python3.6/site-packages/nltk/tree.py:596
+lib/python3.6/site-packages/nltk/tree.py:596
+lib/python3.6/site-packages/nltk/tree.py:596
+lib/python3.6/site-packages/nltk/tree.py:596
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tree.py:596: DeprecationWarning: invalid escape sequence \s
+    if re.search('\s', brackets):
+
+lib/python3.6/site-packages/nltk/tree.py:602
+lib/python3.6/site-packages/nltk/tree.py:602
+lib/python3.6/site-packages/nltk/tree.py:602
+lib/python3.6/site-packages/nltk/tree.py:602
+lib/python3.6/site-packages/nltk/tree.py:602
+lib/python3.6/site-packages/nltk/tree.py:602
+lib/python3.6/site-packages/nltk/tree.py:602
+lib/python3.6/site-packages/nltk/tree.py:602
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tree.py:602: DeprecationWarning: invalid escape sequence \s
+    node_pattern = '[^\s%s%s]+' % (open_pattern, close_pattern)
+
+lib/python3.6/site-packages/nltk/tree.py:604
+lib/python3.6/site-packages/nltk/tree.py:604
+lib/python3.6/site-packages/nltk/tree.py:604
+lib/python3.6/site-packages/nltk/tree.py:604
+lib/python3.6/site-packages/nltk/tree.py:604
+lib/python3.6/site-packages/nltk/tree.py:604
+lib/python3.6/site-packages/nltk/tree.py:604
+lib/python3.6/site-packages/nltk/tree.py:604
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tree.py:604: DeprecationWarning: invalid escape sequence \s
+    leaf_pattern = '[^\s%s%s]+' % (open_pattern, close_pattern)
+
+lib/python3.6/site-packages/nltk/tree.py:605
+lib/python3.6/site-packages/nltk/tree.py:605
+lib/python3.6/site-packages/nltk/tree.py:605
+lib/python3.6/site-packages/nltk/tree.py:605
+lib/python3.6/site-packages/nltk/tree.py:605
+lib/python3.6/site-packages/nltk/tree.py:605
+lib/python3.6/site-packages/nltk/tree.py:605
+lib/python3.6/site-packages/nltk/tree.py:605
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tree.py:605: DeprecationWarning: invalid escape sequence \s
+    token_re = re.compile('%s\s*(%s)?|%s|(%s)' % (
+
+lib/python3.6/site-packages/nltk/tree.py:805
+lib/python3.6/site-packages/nltk/tree.py:805
+lib/python3.6/site-packages/nltk/tree.py:805
+lib/python3.6/site-packages/nltk/tree.py:805
+lib/python3.6/site-packages/nltk/tree.py:805
+lib/python3.6/site-packages/nltk/tree.py:805
+lib/python3.6/site-packages/nltk/tree.py:805
+lib/python3.6/site-packages/nltk/tree.py:805
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tree.py:805: DeprecationWarning: invalid escape sequence \$
+    reserved_chars = re.compile('([#\$%&~_\{\}])')
+
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+lib/python3.6/site-packages/nltk/parse/chart.py:955
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/chart.py:955: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+lib/python3.6/site-packages/nltk/parse/chart.py:989
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/chart.py:989: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+lib/python3.6/site-packages/nltk/parse/chart.py:1038
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/chart.py:1038: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+lib/python3.6/site-packages/nltk/parse/chart.py:1055
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/chart.py:1055: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+lib/python3.6/site-packages/nltk/parse/chart.py:1114
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/chart.py:1114: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+lib/python3.6/site-packages/nltk/parse/chart.py:1133
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/chart.py:1133: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+lib/python3.6/site-packages/nltk/chunk/util.py:360
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/util.py:360: DeprecationWarning: invalid escape sequence \S
+    _LINE_RE = re.compile('(\S+)\s+(\S+)\s+([IOB])-?(\S+)?')
+
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+lib/python3.6/site-packages/nltk/chunk/util.py:490
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/util.py:490: DeprecationWarning: invalid escape sequence \w
+    _IEER_TYPE_RE = re.compile('<b_\w+\s+[^>]*?type="(?P<type>\w+)"')
+
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+lib/python3.6/site-packages/nltk/chunk/util.py:498
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/util.py:498: DeprecationWarning: invalid escape sequence \s
+    for piece_m in re.finditer('<[^>]+>|[^\s<]+', s):
+
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+lib/python3.6/site-packages/nltk/tag/sequential.py:714
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tag/sequential.py:714: DeprecationWarning: invalid escape sequence \w
+    elif re.match('\w+$', word):
+
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+lib/python3.6/site-packages/nltk/tag/sequential.py:708
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tag/sequential.py:708: DeprecationWarning: invalid escape sequence \W
+    elif re.match('\W+$', word):
+
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+lib/python3.6/site-packages/nltk/tag/sequential.py:706
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tag/sequential.py:706: DeprecationWarning: invalid escape sequence \.
+    if re.match('[0-9]+(\.[0-9]*)?|[0-9]*\.[0-9]+$', word):
+
+lib/python3.6/site-packages/nltk/classify/rte_classify.py:64
+lib/python3.6/site-packages/nltk/classify/rte_classify.py:64
+lib/python3.6/site-packages/nltk/classify/rte_classify.py:64
+lib/python3.6/site-packages/nltk/classify/rte_classify.py:64
+lib/python3.6/site-packages/nltk/classify/rte_classify.py:64
+lib/python3.6/site-packages/nltk/classify/rte_classify.py:64
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/classify/rte_classify.py:64: DeprecationWarning: invalid escape sequence \.
+    tokenizer = RegexpTokenizer('([A-Z]\.)+|\w+|\$[\d\.]+')
+
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+lib/python3.6/site-packages/nltk/classify/maxent.py:1273
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/classify/maxent.py:1273: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+lib/python3.6/site-packages/nltk/chunk/regexp.py:69
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:69: DeprecationWarning: invalid escape sequence \{
+    _BRACKETS = re.compile('[^\{\}]+')
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+lib/python3.6/site-packages/nltk/chunk/regexp.py:210
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:210: DeprecationWarning: invalid escape sequence \{
+    s = re.sub('\{\}', '', s)
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+lib/python3.6/site-packages/nltk/chunk/regexp.py:411
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:411: DeprecationWarning: invalid escape sequence \g
+    RegexpChunkRule.__init__(self, regexp, '{\g<chunk>}', descr)
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+lib/python3.6/site-packages/nltk/chunk/regexp.py:454
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:454: DeprecationWarning: invalid escape sequence \g
+    RegexpChunkRule.__init__(self, regexp, '}\g<chink>{', descr)
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+lib/python3.6/site-packages/nltk/chunk/regexp.py:493
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:493: DeprecationWarning: invalid escape sequence \{
+    regexp = re.compile('\{(?P<chunk>%s)\}' %
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+lib/python3.6/site-packages/nltk/chunk/regexp.py:495
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:495: DeprecationWarning: invalid escape sequence \g
+    RegexpChunkRule.__init__(self, regexp, '\g<chunk>', descr)
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+lib/python3.6/site-packages/nltk/chunk/regexp.py:555
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:555: DeprecationWarning: invalid escape sequence \g
+    RegexpChunkRule.__init__(self, regexp, '\g<left>', descr)
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+lib/python3.6/site-packages/nltk/chunk/regexp.py:673
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:673: DeprecationWarning: invalid escape sequence \{
+    regexp = re.compile('(?P<left>%s)\{(?P<right>%s)' %
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+lib/python3.6/site-packages/nltk/chunk/regexp.py:676
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:676: DeprecationWarning: invalid escape sequence \g
+    RegexpChunkRule.__init__(self, regexp, '{\g<left>\g<right>', descr)
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+lib/python3.6/site-packages/nltk/chunk/regexp.py:734
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:734: DeprecationWarning: invalid escape sequence \}
+    regexp = re.compile('(?P<left>%s)\}(?P<right>%s)' %
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+lib/python3.6/site-packages/nltk/chunk/regexp.py:737
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:737: DeprecationWarning: invalid escape sequence \g
+    RegexpChunkRule.__init__(self, regexp, '\g<left>\g<right>}', descr)
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+lib/python3.6/site-packages/nltk/chunk/regexp.py:832
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:832: DeprecationWarning: invalid escape sequence \{
+    ('[^\{\}<>]+',
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+lib/python3.6/site-packages/nltk/chunk/regexp.py:833
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:833: DeprecationWarning: invalid escape sequence \{
+    '[^\{\}<>]+'))
+
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+lib/python3.6/site-packages/nltk/chunk/regexp.py:1106
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/chunk/regexp.py:1106: DeprecationWarning: invalid escape sequence \.
+    """
+
+lib/python3.6/site-packages/nltk/inference/discourse.py:44
+lib/python3.6/site-packages/nltk/inference/discourse.py:44
+lib/python3.6/site-packages/nltk/inference/discourse.py:44
+lib/python3.6/site-packages/nltk/inference/discourse.py:44
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/inference/discourse.py:44: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tokenize/punkt.py:1406: DeprecationWarning: invalid escape sequence \s
+    pat = '\s*'.join(re.escape(c) for c in tok)
+
+lib/python3.6/site-packages/nltk/stem/lancaster.py:178
+lib/python3.6/site-packages/nltk/stem/lancaster.py:178
+lib/python3.6/site-packages/nltk/stem/lancaster.py:178
+lib/python3.6/site-packages/nltk/stem/lancaster.py:178
+lib/python3.6/site-packages/nltk/stem/lancaster.py:178
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/stem/lancaster.py:178: DeprecationWarning: invalid escape sequence \*
+    valid_rule = re.compile("^[a-z]+\*?\d[a-z]*[>\.]?$")
+
+lib/python3.6/site-packages/nltk/stem/lancaster.py:210
+lib/python3.6/site-packages/nltk/stem/lancaster.py:210
+lib/python3.6/site-packages/nltk/stem/lancaster.py:210
+lib/python3.6/site-packages/nltk/stem/lancaster.py:210
+lib/python3.6/site-packages/nltk/stem/lancaster.py:210
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/stem/lancaster.py:210: DeprecationWarning: invalid escape sequence \*
+    valid_rule = re.compile("^([a-z]+)(\*?)(\d)([a-z]*)([>\.]?)$")
+
+lib/python3.6/site-packages/nltk/corpus/reader/plaintext.py:61
+lib/python3.6/site-packages/nltk/corpus/reader/plaintext.py:61
+lib/python3.6/site-packages/nltk/corpus/reader/plaintext.py:61
+lib/python3.6/site-packages/nltk/corpus/reader/plaintext.py:61
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/plaintext.py:61: DeprecationWarning: invalid escape sequence \.
+    """
+
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:592
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:592
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:592
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:592
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:592
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:592
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/util.py:592: DeprecationWarning: invalid escape sequence \d
+    if re.match('^\d+-\d+', line) is not None:
+
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:791
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:791
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:791
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:791
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:791
+lib/python3.6/site-packages/nltk/corpus/reader/util.py:791
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/util.py:791: DeprecationWarning: invalid escape sequence \s
+    if re.match('======+\s*$', line):
+
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/timit.py:166: DeprecationWarning: invalid escape sequence \.
+    encoding = [('.*\.wav', None), ('.*', encoding)]
+
+lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179
+lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179
+lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179
+lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179
+lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179
+lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179
+lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/bracket_parse.py:179: DeprecationWarning: invalid escape sequence \.
+    BracketParseCorpusReader.__init__(self, root, 'alpino\.xml',
+
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/xmldocs.py:219: DeprecationWarning: invalid escape sequence \s
+    _XML_TAG_NAME = re.compile('<\s*/?\s*([^\s>]+)')
+
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/wordnet.py:2023: DeprecationWarning: invalid escape sequence \.
+    '.*\.dat')
+
+lib/python3.6/site-packages/nltk/corpus/reader/switchboard.py:106
+lib/python3.6/site-packages/nltk/corpus/reader/switchboard.py:106
+lib/python3.6/site-packages/nltk/corpus/reader/switchboard.py:106
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/switchboard.py:106: DeprecationWarning: invalid escape sequence \w
+    _UTTERANCE_RE = re.compile('(\w+)\.(\d+)\:\s*(.*)')
+
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/childes.py:204: DeprecationWarning: invalid escape sequence \d
+    m = re.match("P(\d+)Y(\d+)M?(\d?\d?)D?",age_year)
+
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+lib/python3.6/site-packages/nltk/treetransforms.py:108
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/treetransforms.py:108: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/pdfminer/ascii85.py:49
+lib/python3.6/site-packages/pdfminer/ascii85.py:49
+lib/python3.6/site-packages/pdfminer/ascii85.py:49
+lib/python3.6/site-packages/pdfminer/ascii85.py:49
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pdfminer/ascii85.py:49: DeprecationWarning: invalid escape sequence \d
+    hex_re = re.compile(b'([a-f\d]{2})', re.IGNORECASE)
+
+lib/python3.6/site-packages/pdfminer/ascii85.py:50
+lib/python3.6/site-packages/pdfminer/ascii85.py:50
+lib/python3.6/site-packages/pdfminer/ascii85.py:50
+lib/python3.6/site-packages/pdfminer/ascii85.py:50
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pdfminer/ascii85.py:50: DeprecationWarning: invalid escape sequence \d
+    trail_re = re.compile(b'^(?:[a-f\d]{2}|\s)*([a-f\d])[\s>]*$', re.IGNORECASE)
+
+lib/python3.6/site-packages/nltk/sem/evaluate.py:275
+lib/python3.6/site-packages/nltk/sem/evaluate.py:275
+lib/python3.6/site-packages/nltk/sem/evaluate.py:275
+lib/python3.6/site-packages/nltk/sem/evaluate.py:275
+lib/python3.6/site-packages/nltk/sem/evaluate.py:275
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/sem/evaluate.py:275: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/nltk/text.py:498
+lib/python3.6/site-packages/nltk/text.py:498
+lib/python3.6/site-packages/nltk/text.py:498
+lib/python3.6/site-packages/nltk/text.py:498
+lib/python3.6/site-packages/nltk/text.py:498
+lib/python3.6/site-packages/nltk/text.py:498
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/text.py:498: DeprecationWarning: invalid escape sequence \w
+    _CONTEXT_RE = re.compile('\w+|[\.\!\?]')
+
+lib/python3.6/site-packages/nltk/parse/featurechart.py:239
+lib/python3.6/site-packages/nltk/parse/featurechart.py:239
+lib/python3.6/site-packages/nltk/parse/featurechart.py:239
+lib/python3.6/site-packages/nltk/parse/featurechart.py:239
+lib/python3.6/site-packages/nltk/parse/featurechart.py:239
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/featurechart.py:239: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/parse/featurechart.py:327
+lib/python3.6/site-packages/nltk/parse/featurechart.py:327
+lib/python3.6/site-packages/nltk/parse/featurechart.py:327
+lib/python3.6/site-packages/nltk/parse/featurechart.py:327
+lib/python3.6/site-packages/nltk/parse/featurechart.py:327
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/parse/featurechart.py:327: DeprecationWarning: invalid escape sequence \*
+    """
+
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:96
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:96
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:96
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:96
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:96
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:96
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tokenize/texttiling.py:96: DeprecationWarning: invalid escape sequence \-
+    if re.match("[a-z\-\' \n\t]", c))
+
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:222
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:222
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:222
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:222
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:222
+lib/python3.6/site-packages/nltk/tokenize/texttiling.py:222
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tokenize/texttiling.py:222: DeprecationWarning: invalid escape sequence \w
+    matches = re.finditer("\w+", text)
+
+lib/python3.6/site-packages/nltk/corpus/reader/api.py:76
+lib/python3.6/site-packages/nltk/corpus/reader/api.py:76
+lib/python3.6/site-packages/nltk/corpus/reader/api.py:76
+lib/python3.6/site-packages/nltk/corpus/reader/api.py:76
+lib/python3.6/site-packages/nltk/corpus/reader/api.py:76
+lib/python3.6/site-packages/nltk/corpus/reader/api.py:76
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/api.py:76: DeprecationWarning: invalid escape sequence \.
+    m = re.match('(.*\.zip)/?(.*)$|', root)
+
+lib/python3.6/site-packages/nltk/toolbox.py:194
+lib/python3.6/site-packages/nltk/toolbox.py:194
+lib/python3.6/site-packages/nltk/toolbox.py:194
+lib/python3.6/site-packages/nltk/toolbox.py:194
+lib/python3.6/site-packages/nltk/toolbox.py:194
+lib/python3.6/site-packages/nltk/toolbox.py:194
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/toolbox.py:194: DeprecationWarning: invalid escape sequence \_
+    """
+
+lib/python3.6/site-packages/nltk/corpus/reader/bnc.py:29
+lib/python3.6/site-packages/nltk/corpus/reader/bnc.py:29
+lib/python3.6/site-packages/nltk/corpus/reader/bnc.py:29
+lib/python3.6/site-packages/nltk/corpus/reader/bnc.py:29
+lib/python3.6/site-packages/nltk/corpus/reader/bnc.py:29
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/bnc.py:29: DeprecationWarning: invalid escape sequence \w
+    """
+
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+lib/python3.6/site-packages/nltk/draw/cfg.py:150
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/draw/cfg.py:150: DeprecationWarning: invalid escape sequence \s
+    _ARROW_RE = re.compile("\s*(->|("+ARROW+"))\s*")
+
+lib/python3.6/site-packages/nltk/draw/cfg.py:152
+lib/python3.6/site-packages/nltk/draw/cfg.py:152
+lib/python3.6/site-packages/nltk/draw/cfg.py:152
+lib/python3.6/site-packages/nltk/draw/cfg.py:152
+lib/python3.6/site-packages/nltk/draw/cfg.py:152
+lib/python3.6/site-packages/nltk/draw/cfg.py:152
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/draw/cfg.py:152: DeprecationWarning: invalid escape sequence \s
+    "(->|("+ARROW+"))\s*" +        # arrow
+
+lib/python3.6/site-packages/nltk/ccg/combinator.py:204
+lib/python3.6/site-packages/nltk/ccg/combinator.py:204
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/ccg/combinator.py:204: DeprecationWarning: invalid escape sequence \Y
+    """
+
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:102
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:102
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:102
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:102
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:102
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tokenize/regexp.py:102: DeprecationWarning: invalid escape sequence \w
+    """
+
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:181
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:181
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:181
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:181
+lib/python3.6/site-packages/nltk/tokenize/regexp.py:181
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/tokenize/regexp.py:181: DeprecationWarning: invalid escape sequence \w
+    """
+
+lib/python3.6/site-packages/nltk/corpus/reader/twitter.py:53
+lib/python3.6/site-packages/nltk/corpus/reader/twitter.py:53
+lib/python3.6/site-packages/nltk/corpus/reader/twitter.py:53
+lib/python3.6/site-packages/nltk/corpus/reader/twitter.py:53
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/twitter.py:53: DeprecationWarning: invalid escape sequence \.
+    """
+
+lib/python3.6/site-packages/nltk/corpus/reader/udhr.py:31
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/nltk/corpus/reader/udhr.py:31: DeprecationWarning: invalid escape sequence \-
+    ('Abkhaz\-Cyrillic\+Abkh', 'cp1251'),
+
+src/textcode/strings2.py:32
+  /home/xavierfigueroav/Documents/scancode-toolkit/src/textcode/strings2.py:32: DeprecationWarning: invalid escape sequence \$
+    " !\"#\$%&\'\(\)\*\+,-\./0123456789:;<=>\?@ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+src/textcode/strings2.py:33
+  /home/xavierfigueroav/Documents/scancode-toolkit/src/textcode/strings2.py:33: DeprecationWarning: invalid escape sequence \[
+    "\[\]\^_`abcdefghijklmnopqrstuvwxyz\{\|\}\\\~\t"
+
+lib/python3.6/site-packages/pygments/lexers/actionscript.py:128
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/actionscript.py:128: DeprecationWarning: invalid escape sequence \.
+    typeidentifier = identifier + '(?:\.<\w+>)?'
+
+lib/python3.6/site-packages/pygments/lexers/actionscript.py:235
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/actionscript.py:235: DeprecationWarning: invalid escape sequence \s
+    ('\s+', Text),
+
+lib/python3.6/site-packages/pygments/lexers/parsers.py:367
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/parsers.py:367: DeprecationWarning: invalid escape sequence \s
+    (r'(scope)(\s*)(' + _id + ')(\s*)(\{)',
+
+lib/python3.6/site-packages/pygments/lexers/parsers.py:373
+lib/python3.6/site-packages/pygments/lexers/parsers.py:373
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/parsers.py:373: DeprecationWarning: invalid escape sequence \s
+    (r'(@' + _id + ')(\s*)(::)?(\s*)(' + _id + ')(\s*)(\{)',
+
+lib/python3.6/site-packages/pygments/lexers/parsers.py:408
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/parsers.py:408: DeprecationWarning: invalid escape sequence \s
+    (r'(scope)(\s+)(' + _id + ')(\s*)(;)',
+
+lib/python3.6/site-packages/pygments/lexers/parsers.py:411
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/parsers.py:411: DeprecationWarning: invalid escape sequence \s
+    (r'(@' + _id + ')(\s*)(\{)',
+
+lib/python3.6/site-packages/pygments/lexers/parsers.py:445
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/parsers.py:445: DeprecationWarning: invalid escape sequence \s
+    + ')?(\s*)(;)',
+
+lib/python3.6/site-packages/pygments/lexers/parsers.py:455
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/parsers.py:455: DeprecationWarning: invalid escape sequence \*
+    '|'.join((_id, _STRING_LITERAL, _INT, '\*')) + ')(\s*)(;)',
+
+lib/python3.6/site-packages/pygments/lexers/parsers.py:455
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/parsers.py:455: DeprecationWarning: invalid escape sequence \s
+    '|'.join((_id, _STRING_LITERAL, _INT, '\*')) + ')(\s*)(;)',
+
+lib/python3.6/site-packages/pygments/lexers/jvm.py:260
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/jvm.py:260: DeprecationWarning: invalid escape sequence \d
+    letter_letter_digit = u'%s(?:%s|\d)*' % (letter, letter)
+
+lib/python3.6/site-packages/pygments/lexers/jvm.py:692
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/jvm.py:692: DeprecationWarning: invalid escape sequence \w
+    u'(?![\w!:?])', Name.Function),
+
+lib/python3.6/site-packages/pygments/lexers/jvm.py:1261
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/jvm.py:1261: DeprecationWarning: invalid escape sequence \w
+    ('`?[a-zA-Z_][\w$]*', Name),
+
+lib/python3.6/site-packages/pygments/lexers/c_cpp.py:39
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/c_cpp.py:39: DeprecationWarning: invalid escape sequence \s
+    ('^#if\s+0', Comment.Preproc, 'if0'),
+
+lib/python3.6/site-packages/pygments/lexers/c_cpp.py:87
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/c_cpp.py:87: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name),
+
+lib/python3.6/site-packages/pygments/lexers/c_cpp.py:193
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/c_cpp.py:193: DeprecationWarning: invalid escape sequence \s
+    if re.search('^\s*#include [<"]', text, re.MULTILINE):
+
+lib/python3.6/site-packages/pygments/lexers/c_cpp.py:195
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/c_cpp.py:195: DeprecationWarning: invalid escape sequence \s
+    if re.search('^\s*#ifn?def ', text, re.MULTILINE):
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:90
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:90: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*:\s*)([a-zA-Z$_][\w$]*)?(\s*)(\{)',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:93
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:93: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*:\s*)([a-zA-Z$_][\w$]*)?',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:96
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:96: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*)(\([a-zA-Z$_][\w$]*\))(\s*)(\{)',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:99
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:99: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*)(\([a-zA-Z$_][\w$]*\))',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:102
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:102: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*)(\{)',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:104
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:104: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)', Name.Class, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:107
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:107: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*,\s*)',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:109
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:109: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*;?)',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:247
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:247: DeprecationWarning: invalid escape sequence \s
+    ('\s+', Text),
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:249
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:249: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*)(=)(\s*)([^);]*)',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:251
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:251: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)', Name.Class),
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:252
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:252: DeprecationWarning: invalid escape sequence \)
+    ('\)', Punctuation, '#pop'),
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:255
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:255: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)(\s*:\s*)([a-zA-Z$_][\w$]*)?',
+
+lib/python3.6/site-packages/pygments/lexers/objective.py:257
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/objective.py:257: DeprecationWarning: invalid escape sequence \w
+    ('([a-zA-Z$_][\w$]*)', Name.Class, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:61
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:61: DeprecationWarning: invalid escape sequence \w
+    'none': '@?[_a-zA-Z]\w*',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:174
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:174: DeprecationWarning: invalid escape sequence \w
+    'none': '@?[_a-zA-Z]\w*',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:355
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:355: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name.Function, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:358
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:358: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name.Class, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:361
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:361: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_][\w.]*', Name.Namespace, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:416
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:416: DeprecationWarning: invalid escape sequence \.
+    prefix='(?<!\.)', suffix=r'\b'), Keyword),
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:577
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:577: DeprecationWarning: invalid escape sequence \(
+    '!=', '#', '&&', '&', '\(', '\)', '\*', '\+', ',', '-\.',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:577
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:577: DeprecationWarning: invalid escape sequence \)
+    '!=', '#', '&&', '&', '\(', '\)', '\*', '\+', ',', '-\.',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:577
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:577: DeprecationWarning: invalid escape sequence \*
+    '!=', '#', '&&', '&', '\(', '\)', '\*', '\+', ',', '-\.',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:577
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:577: DeprecationWarning: invalid escape sequence \+
+    '!=', '#', '&&', '&', '\(', '\)', '\*', '\+', ',', '-\.',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:577
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:577: DeprecationWarning: invalid escape sequence \.
+    '!=', '#', '&&', '&', '\(', '\)', '\*', '\+', ',', '-\.',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:578
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:578
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:578: DeprecationWarning: invalid escape sequence \.
+    '->', '-', '\.\.', '\.', '::', ':=', ':>', ':', ';;', ';', '<-',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:579: DeprecationWarning: invalid escape sequence \]
+    '<\]', '<', '>\]', '>', '\?\?', '\?', '\[<', '\[\|', '\[', '\]',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:579: DeprecationWarning: invalid escape sequence \?
+    '<\]', '<', '>\]', '>', '\?\?', '\?', '\[<', '\[\|', '\[', '\]',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:579
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:579: DeprecationWarning: invalid escape sequence \[
+    '<\]', '<', '>\]', '>', '\?\?', '\?', '\[<', '\[\|', '\[', '\]',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:580
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:580: DeprecationWarning: invalid escape sequence \{
+    '_', '`', '\{', '\|\]', '\|', '\}', '~', '<@@', '<@', '=', '@>', '@@>',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:580
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:580
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:580: DeprecationWarning: invalid escape sequence \|
+    '_', '`', '\{', '\|\]', '\|', '\}', '~', '<@@', '<@', '=', '@>', '@@>',
+
+lib/python3.6/site-packages/pygments/lexers/dotnet.py:580
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/dotnet.py:580: DeprecationWarning: invalid escape sequence \}
+    '_', '`', '\{', '\|\]', '\|', '\}', '~', '<@@', '<@', '=', '@>', '@@>',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:223
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:223: DeprecationWarning: invalid escape sequence \s
+    ('\s+', Text),
+
+lib/python3.6/site-packages/pygments/lexers/html.py:316
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:316: DeprecationWarning: invalid escape sequence \]
+    (r'(/)(\[' + _dot + '*?\])(' + _dot + r'*\n)',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:333
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:333: DeprecationWarning: invalid escape sequence \}
+    (r'\{(,\n|' + _dot + ')*?\}', using(RubyLexer)),
+
+lib/python3.6/site-packages/pygments/lexers/html.py:334
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:334: DeprecationWarning: invalid escape sequence \]
+    (r'\[' + _dot + '*?\]', using(RubyLexer)),
+
+lib/python3.6/site-packages/pygments/lexers/html.py:343
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:343: DeprecationWarning: invalid escape sequence \}
+    (r'(#\{)(' + _dot + '*?)(\})',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:376
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:376: DeprecationWarning: invalid escape sequence \}
+    (r'(#\{)(' + _dot + '*?)(\})',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:425
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:425: DeprecationWarning: invalid escape sequence \]
+    (r'(/)(\[' + _dot + '*?\])(' + _dot + r'*\n)',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:445
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:445: DeprecationWarning: invalid escape sequence \}
+    (r'\{(,\n|' + _dot + ')*?\}', using(ScalaLexer)),
+
+lib/python3.6/site-packages/pygments/lexers/html.py:446
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:446: DeprecationWarning: invalid escape sequence \]
+    (r'\[' + _dot + '*?\]', using(ScalaLexer)),
+
+lib/python3.6/site-packages/pygments/lexers/html.py:455
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:455: DeprecationWarning: invalid escape sequence \}
+    (r'(#\{)(' + _dot + '*?)(\})',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:488
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:488: DeprecationWarning: invalid escape sequence \}
+    (r'(#\{)(' + _dot + '*?)(\})',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:533
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:533: DeprecationWarning: invalid escape sequence \]
+    (r'(/)(\[' + _dot + '*?\])(' + _dot + r'*\n)',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:554
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:554: DeprecationWarning: invalid escape sequence \}
+    (r'\{(,\n|' + _dot + ')*?\}', using(ScalaLexer)),
+
+lib/python3.6/site-packages/pygments/lexers/html.py:555
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:555: DeprecationWarning: invalid escape sequence \]
+    (r'\[' + _dot + '*?\]', using(ScalaLexer)),
+
+lib/python3.6/site-packages/pygments/lexers/html.py:564
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:564: DeprecationWarning: invalid escape sequence \}
+    (r'(#\{)(' + _dot + '*?)(\})',
+
+lib/python3.6/site-packages/pygments/lexers/html.py:597
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/html.py:597: DeprecationWarning: invalid escape sequence \}
+    (r'(#\{)(' + _dot + '*?)(\})',
+
+lib/python3.6/site-packages/pygments/lexers/javascript.py:538
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/javascript.py:538: DeprecationWarning: invalid escape sequence \s
+    if re.search('^(import.+(from\s+)?["\']|'
+
+lib/python3.6/site-packages/pygments/lexers/javascript.py:539
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/javascript.py:539: DeprecationWarning: invalid escape sequence \s
+    '(export\s*)?(interface|class|function)\s+)',
+
+lib/python3.6/site-packages/pygments/lexers/javascript.py:1018
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/javascript.py:1018: DeprecationWarning: invalid escape sequence \s
+    if re.search('^\s*@import\s+[<"]', text, re.MULTILINE):
+
+lib/python3.6/site-packages/pygments/lexers/python.py:183
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:183: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name),
+
+lib/python3.6/site-packages/pygments/lexers/python.py:187
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:187: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name.Function, '#pop'),
+
+lib/python3.6/site-packages/pygments/lexers/python.py:191
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:191: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name.Class, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/python.py:268
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:268: DeprecationWarning: invalid escape sequence \w
+    '((\w+)((\.\w+)|(\[[^\]]+\]))*)?'  # field name
+
+lib/python3.6/site-packages/pygments/lexers/python.py:269
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:269: DeprecationWarning: invalid escape sequence \!
+    '(\![sra])?'                       # conversion
+
+lib/python3.6/site-packages/pygments/lexers/python.py:270
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:270: DeprecationWarning: invalid escape sequence \:
+    '(\:(.?[<>=\^])?[-+ ]?#?0?(\d+)?,?(\.\d+)?[E-GXb-gnosx%]?)?'
+
+lib/python3.6/site-packages/pygments/lexers/python.py:271
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:271: DeprecationWarning: invalid escape sequence \}
+    '\}', String.Interpol),
+
+lib/python3.6/site-packages/pygments/lexers/python.py:674
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:674: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name),
+
+lib/python3.6/site-packages/pygments/lexers/python.py:677
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:677: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name.Function, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/python.py:694
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/python.py:694: DeprecationWarning: invalid escape sequence \w
+    ('[a-zA-Z_]\w*', Name.Class, '#pop')
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:211
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:211: DeprecationWarning: invalid escape sequence \s
+    if re.search('(?:my|our)\s+[$@%(]', text):
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:229
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:229: DeprecationWarning: invalid escape sequence \w
+    PERL6_IDENTIFIER_RANGE = "['\w:-]"
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:498
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:498: DeprecationWarning: invalid escape sequence \s
+    (r'(regex|token|rule)(?!' + PERL6_IDENTIFIER_RANGE + ')(\s*' + PERL6_IDENTIFIER_RANGE + '+)?',
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:594
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:594: DeprecationWarning: invalid escape sequence \s
+    if re.search("(?:my|our|has)\s+(?:" + Perl6Lexer.PERL6_IDENTIFIER_RANGE +
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:595
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:595: DeprecationWarning: invalid escape sequence \s
+    "+\s+)?[$@%&(]", text):
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:601
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:601: DeprecationWarning: invalid escape sequence \s
+    if re.match('^\s*$', line):
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:605
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:605: DeprecationWarning: invalid escape sequence \s
+    if re.match('^\s*(?:use\s+)?v6(?:\.\d(?:\.\d)?)?;', line):
+
+lib/python3.6/site-packages/pygments/lexers/perl.py:608
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/perl.py:608: DeprecationWarning: invalid escape sequence \s
+    class_decl = re.match('^\s*(?:(?P<scope>my|our)\s+)?(?:module|class|role|enum|grammar)', line)
+
+lib/python3.6/site-packages/pygments/lexers/scripting.py:107
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/scripting.py:107: DeprecationWarning: invalid escape sequence \(
+    ('\(', Punctuation, '#pop'),
+
+lib/python3.6/site-packages/pygments/lexers/scripting.py:699
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/scripting.py:699: DeprecationWarning: invalid escape sequence \(
+    ('\(\*', Comment.Multiline, '#push'),
+
+lib/python3.6/site-packages/pygments/lexers/scripting.py:700
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/scripting.py:700: DeprecationWarning: invalid escape sequence \*
+    ('\*\)', Comment.Multiline, '#pop'),
+
+lib/python3.6/site-packages/pygments/lexers/lisp.py:142
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/lisp.py:142: DeprecationWarning: invalid escape sequence \(
+    ("(?<=\()(%s)" % '|'.join(re.escape(entry) + ' ' for entry in builtins),
+
+lib/python3.6/site-packages/pygments/lexers/lisp.py:324
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/lisp.py:324: DeprecationWarning: invalid escape sequence \s
+    (r'#+nil' + terminated + '\s*\(', Comment.Preproc, 'commented-form'),
+
+lib/python3.6/site-packages/pygments/lexers/lisp.py:336
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/lisp.py:336: DeprecationWarning: invalid escape sequence \*
+    (r'\*' + symbol + '\*', Name.Variable.Global),
+
+lib/python3.6/site-packages/pygments/lexers/lisp.py:2157
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/lisp.py:2157: DeprecationWarning: invalid escape sequence \*
+    (r'\*' + symbol + '\*', Name.Variable.Global),
+
+lib/python3.6/site-packages/pygments/lexers/pascal.py:596
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/pascal.py:596: DeprecationWarning: invalid escape sequence \w
+    ('"[^"]+"|[\w.]+', Name.Function),
+
+lib/python3.6/site-packages/pygments/lexers/pascal.py:597
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/pascal.py:597: DeprecationWarning: invalid escape sequence \s
+    ('\s+', Text),
+
+lib/python3.6/site-packages/pygments/lexers/pascal.py:631
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/pascal.py:631: DeprecationWarning: invalid escape sequence \s
+    ('is\s+new|renames', Keyword.Reserved),
+
+lib/python3.6/site-packages/pygments/lexers/pascal.py:634
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/pascal.py:634: DeprecationWarning: invalid escape sequence \(
+    ('\(', Punctuation, 'package_instantiation'),
+
+lib/python3.6/site-packages/pygments/lexers/pascal.py:635
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/pascal.py:635: DeprecationWarning: invalid escape sequence \w
+    ('([\w.]+)', Name.Class),
+
+lib/python3.6/site-packages/pygments/lexers/erlang.py:347
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/erlang.py:347: DeprecationWarning: invalid escape sequence \w
+    alnum = '\w'
+
+lib/python3.6/site-packages/pygments/lexers/erlang.py:498
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/erlang.py:498: DeprecationWarning: invalid escape sequence \.
+    _prompt_re = re.compile('(iex|\.{3})(\(\d+\))?> ')
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:190
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:190: DeprecationWarning: invalid escape sequence \{
+    if re.search('\{if\s+.*?\}.*?\{/if\}', text):
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:192
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:192: DeprecationWarning: invalid escape sequence \{
+    if re.search('\{include\s+file=.*?\}', text):
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:194
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:194: DeprecationWarning: invalid escape sequence \{
+    if re.search('\{foreach\s+.*?\}.*?\{/foreach\}', text):
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:196
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:196: DeprecationWarning: invalid escape sequence \{
+    if re.search('\{\$.*?\}', text):
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:945
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:945: DeprecationWarning: invalid escape sequence \$
+    if re.search('\$\{.*?\}', text) is not None:
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:970
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:970: DeprecationWarning: invalid escape sequence \$
+    if re.search('\$\{.*?\}', text) is not None:
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:1630
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:1630: DeprecationWarning: invalid escape sequence \w
+    if re.search('val \w+\s*:', text):
+
+lib/python3.6/site-packages/pygments/lexers/templates.py:1958
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/templates.py:1958: DeprecationWarning: invalid escape sequence \}
+    ('\}\}', Punctuation, '#pop'),  # end of output
+
+lib/python3.6/site-packages/pygments/lexers/php.py:176
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/php.py:176: DeprecationWarning: invalid escape sequence \}
+    (r'\$\{\$+' + _ident_inner + '\}', Name.Variable),
+
+lib/python3.6/site-packages/pygments/lexers/php.py:217
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/php.py:217: DeprecationWarning: invalid escape sequence \[
+    (r'\$' + _ident_inner + '(\[\S+?\]|->' + _ident_inner + ')?',
+
+lib/python3.6/site-packages/pygments/lexers/asm.py:38
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/asm.py:38: DeprecationWarning: invalid escape sequence \.
+    identifier = r'(?:[a-zA-Z$_]' + char + '*|\.' + char + '+)'
+
+lib/python3.6/site-packages/pygments/lexers/asm.py:259
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/asm.py:259: DeprecationWarning: invalid escape sequence \d
+    ('\d+', Number.Integer),
+
+lib/python3.6/site-packages/pygments/lexers/asm.py:353
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/asm.py:353: DeprecationWarning: invalid escape sequence \s
+    (identifier + '\s*:', Name.Label),
+
+lib/python3.6/site-packages/pygments/lexers/haskell.py:683
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/haskell.py:683: DeprecationWarning: invalid escape sequence \w
+    boundary = '(?![\w/])'
+
+lib/python3.6/site-packages/pygments/lexers/haxe.py:46
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/haxe.py:46: DeprecationWarning: invalid escape sequence \$
+    ident = r'(?:_*[a-z]\w*|_+[0-9]\w*|' + typeid + '|_+|\$\w+)'
+
+lib/python3.6/site-packages/pygments/lexers/haxe.py:185
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/haxe.py:185: DeprecationWarning: invalid escape sequence \.
+    (r'[0-9]+\.(?!' + ident + '|\.\.)', Number.Float),
+
+lib/python3.6/site-packages/pygments/lexers/haxe.py:222
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/haxe.py:222: DeprecationWarning: invalid escape sequence \.
+    (r'[0-9]+\.(?!' + ident + '|\.\.)', Number.Float, ('#pop', 'preproc-expr-chain')),
+
+lib/python3.6/site-packages/pygments/lexers/haxe.py:459
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/haxe.py:459: DeprecationWarning: invalid escape sequence \.
+    (r'[0-9]+\.(?!' + ident + '|\.\.)', Number.Float, ('#pop', 'expr-chain')),
+
+lib/python3.6/site-packages/pygments/lexers/haxe.py:714
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/haxe.py:714: DeprecationWarning: invalid escape sequence \.
+    (r'[0-9]+\.(?!' + ident + '|\.\.)', Number.Float, '#pop'),
+
+lib/python3.6/site-packages/pygments/lexers/ml.py:46
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/ml.py:46: DeprecationWarning: invalid escape sequence \|
+    ':', '\|', '=', '=>', '->', '#',
+
+lib/python3.6/site-packages/pygments/lexers/prolog.py:60
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/prolog.py:60: DeprecationWarning: invalid escape sequence \w
+    u'[\w$\u00c0-\u1fff\u3040-\ud7ff\ue000-\uffef]*)'
+
+lib/python3.6/site-packages/pygments/lexers/prolog.py:64
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/prolog.py:64: DeprecationWarning: invalid escape sequence \w
+    u'[\w$\u00c0-\u1fff\u3040-\ud7ff\ue000-\uffef]*)'
+
+lib/python3.6/site-packages/pygments/lexers/prolog.py:68
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/prolog.py:68: DeprecationWarning: invalid escape sequence \w
+    u'[\w$\u00c0-\u1fff\u3040-\ud7ff\ue000-\uffef]*',
+
+lib/python3.6/site-packages/pygments/lexers/prolog.py:303
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/prolog.py:303: DeprecationWarning: invalid escape sequence \s
+    elif re.search('^:-\s[a-z]', text, re.M):
+
+lib/python3.6/site-packages/pygments/lexers/sql.py:158
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/pygments/lexers/sql.py:158: DeprecationWarning: invalid escape sequence \s
+    (r'(' + '|'.join(s.replace(" ", "\s+")
+
+lib/python3.6/site-packages/rdflib/py3compat.py:168
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/rdflib/py3compat.py:168: DeprecationWarning: invalid escape sequence \ 
+    """
+
+lib/python3.6/site-packages/rdflib/paths.py:184
+  /home/xavierfigueroav/Documents/scancode-toolkit/lib/python3.6/site-packages/rdflib/paths.py:184: DeprecationWarning: invalid escape sequence \ 
+    """)
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+================================== short test summary info ==================================
+XFAIL tests/cluecode/test_finder.py::TestUrl::test_misc_valid_unicode_or_punycode_urls_that_should_pass
+  reason: 
+XFAIL tests/extractcode/test_archive.py::TestUncompressGzip::test_uncompress_gzip_with_trailing_data_py3
+XFAIL tests/cluecode/test_finder.py::TestUrl::test_misc_valid_urls_that_should_pass
+  reason: 
+XFAIL tests/extractcode/test_archive.py::TestExtractArchiveWithIllegalFilenamesWithSevenzipOnLinux::test_extract_rar_with_weird_filenames_with_sevenzip
+XFAIL tests/extractcode/test_archive.py::TestDia::test_extract_dia_with_trailing_data_py3
+XFAIL tests/extractcode/test_archive.py::TestExtractArchiveWithIllegalFilenamesWithSevenzipOnLinuxWarnings::test_extract_rar_with_weird_filenames_with_sevenzip
+XFAIL tests/extractcode/test_extract.py::TestExtract::test_extract_directory_of_windows_ar_archives
+XFAIL tests/extractcode/test_extract.py::TestExtract::test_extract_with_kinds
+XFAIL tests/extractcode/test_patch.py::TestPatchInfoFailing::test_patch_info_patch_patches_misc_webkit_opensource_patches_sync_xhr_patch
+  reason: 
+XFAIL tests/extractcode/test_patch.py::TestPatchInfoFailing::test_patch_info_patch_patches_problematic_opensso_patch
+  reason: 
+XFAIL tests/packagedcode/test_pypi.py::TestPyPi::test_parse_setup_py_frell_src
+  reason: 
+XFAIL tests/packagedcode/test_pypi.py::TestPyPi::test_parse_setup_py_pluggy
+  reason: 
+XFAIL tests/packagedcode/test_pypi.py::TestPyPi::test_parse_setup_py_pygtrie
+  reason: 
+XFAIL tests/packagedcode/test_rubygems.py::TestRubyGemspec::test_rubygems_can_parse_gemspec_address_standardization_gemspec
+  reason: 
+XFAIL tests/packagedcode/test_rubygems.py::TestRubyGemspec::test_rubygems_can_parse_gemspec_arel_gemspec
+  reason: 
+XFAIL tests/packagedcode/test_rubygems.py::TestRubyGemspec::test_rubygems_gemspec_with_variables
+  reason: 
+XFAIL tests/packagedcode/test_rubygems.py::TestRubyGemspec::test_rubygems_modern_gemspec
+  reason: 
+XFAIL tests/packagedcode/test_rubygems.py::TestRubyGemspec::test_rubygems_oj_gemspec
+  reason: 
+XFAIL tests/packagedcode/test_rubygems.py::TestRubyGemspec::test_rubygems_rubocop_gemspec
+  reason: 
+XFAIL tests/typecode/test_contenttype.py::TestContentType::test_text_rsync_file_is_not_octet_stream
+  reason: 
+XPASS tests/extractcode/test_archive.py::TestZip::test_extract_zip_with_relative_path_deeply_nested_with_7zip_posix_py3 
+XPASS tests/scancode/test_cli.py::test_scan_should_not_fail_on_faulty_pdf_or_pdfminer_bug_but_instead_report_errors_and_keep_trucking_with_html_app May fail on Python 2 py2
+XPASS tests/scancode/test_cli.py::test_display_summary_edge_case_scan_time_zero_should_not_fail 
+XPASS tests/scancode/test_resource.py::TestCodebase::test_Codebase_with_only_ignores_should_not_faild_to_create FIXME: a fie for ticket #1422 is needed
+====== 2190 passed, 63 skipped, 20 xfailed, 4 xpassed, 808 warnings in 378.87 seconds =======
